@@ -1,0 +1,11 @@
+.imageRow {
+    display: flex;
+    justify-content: center;
+    gap: 1rem; /* Adjust as needed */
+  }
+  
+  .image {
+    max-width: 100%; /* Ensure images do not exceed their container */
+    padding: 20px
+  }
+  
